@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'delete' target in the 'delete' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
